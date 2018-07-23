@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding:0;
+  }
+  body{
+    background: #4c339f;
+    font-family: 'Raleway', sans-serif;
+  }
+  .container{
+    width: 50%;
+    margin: 0 auto;
+    
+  }
+  .signup{
+    width: 50%;
+    margin: 15% auto;
+    box-shadow: 0px 2px 20px #1f0b68;
+    text-align: center;
+  }
+  .name{
+    background: none;
+    border-bottom: 1px solid black !important;
+    text-align: center;
+    width: 60%;
+    padding: 10px 0px;
+    
+    font-size: 18px;
+    color: white;
+  }
+  .ra{
+    margin: 30px 0px;
+  }
+  .btn{
+    padding: 12px 50px;
+    border-radius: 50px;
+    border: none;
+    color: #4c339f;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+    border: 1px solid white;
+    transition: 0.3s all ease;
+  }
+  h2{
+   color: white; 
+    padding: 20px 0px;
+    font-size: 45px;
+   
+    
+  }
+  .btn:hover{
+    border: 1px solid white;
+    color: white;
+    background: none;
+    box-shadow:2px 5px 20px #6b5aa8;
+  }

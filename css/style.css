@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+  }
+  .con{
+    width: 70%;
+    margin: 3.5% auto;
+    
+    
+  }
+  .left-one{
+    width: 30%;
+    float: left;
+    background: #3d4850;
+    text-align: center;
+    margin-bottom : 20px;
+    box-shadow: 0px 5px 15px  #333435;
+  }
+  .left-one img{
+    padding: 120px 0px 60px 0px;
+  }
+  .signin{
+    width:100%; 
+  }
+  .place{
+    width:70%;
+    background: none;
+    border-bottom: 1px solid #d9dde0 !important;
+    padding: 8px 20px;
+    
+  }
+  .sig{
+    padding:10px 120px;
+    color: #d9dde0;
+    background: none;
+    border: 1px solid #d9dde0;
+    margin:15px 0px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    transition: 0.3s all ease;
+  }
+  .sig:hover{
+    background: #242a2d;
+    color: white;
+  }
+  .fa{
+    padding: 10px 76.7px;
+    color:white;
+    background: #395795;
+    border: none;
+    margin-bottom: 20px;
+    font-family: 'Raleway', sans-serif;
+    transition: 0.3s all ease;
+  }
+  .fa:hover{
+    background:#314e89;
+  }
+  .pa{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  .for{
+    color: #d9dde0;
+    font-size: 14px;
+    
+  }
+  .for:hover{
+    color: #1a2d54;
+  }
+  .para{
+    margin-bottom: 150px;
+    font-family: 'Raleway', sans-serif;
+    
+  }
+  
+  .right-two{
+    float: right;
+    width: 70%;
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.4)),url('https://images.unsplash.com/photo-1469317835793-6d02c2392778?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ba304c8fd9d6cc6865ff8ad49ad2976a&auto=format&fit=crop&w=1052&q=80');
+    background-size: cover;
+  }
+  .ek{
+    font-size: 70px;
+    padding: 300px 0px 0px 30px;
+    color: white;
+  }
+  .du{
+    padding:0px 0px 0px 30px;
+    color: white;
+    font-size: 70px;
+  
+  }
+  .si{
+    margin-left:30px;
+    margin-top: 20px;
+    padding: 8px 15px;
+    background: #3d4850;
+    border: none;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    transition: 0.3s all ease;
+    cursor: pointer;
+  }
+  .si:hover{
+    background: #343638;
+  }
+  .he{
+    padding: 7px 25px;
+    color: #3d4850;
+    background: none;
+    border: none;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    margin-left: 2px;
+    transition: 0.3s all ease;
+    cursor: pointer;
+  }
+  .he:hover{
+    border: 1px solid  white;
+    color: white;
+  }
+  .right-two p{
+    color: white;
+    padding: 20px 0px 0px 30px;
+    line-height: 1.5em;
+    font-family: 'Raleway', sans-serif;
+  }
+  h4{
+    color: white;
+    padding: 0px 0px 58px 30px;
+    font-family: 'Raleway', sans-serif;
+    
+  }
+  h4 a{
+    
+    color: white;
+    transition: 0.3s all ease;
+  
+  }
+  h4 a:hover{
+    color: #a1a3a8;
+    border-bottom: 3px solid white;
+  }
